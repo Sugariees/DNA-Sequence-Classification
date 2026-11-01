@@ -1,0 +1,19 @@
+accession,actual_species,predicted_species,correct
+OP067885.1,Escherichia coli,Escherichia coli,True
+OR195893.1,Escherichia coli,Escherichia coli,True
+MW767000.1,Escherichia coli,Escherichia coli,True
+PV248728.1,Escherichia coli,Escherichia coli,True
+MG201999.1,Escherichia coli,Escherichia coli,True
+PP867196.1,Bacillus subtilis,Bacillus subtilis,True
+PZ810848.1,Bacillus subtilis,Bacillus subtilis,True
+HQ455042.1,Bacillus subtilis,Escherichia coli,False
+OQ615296.1,Bacillus subtilis,Bacillus subtilis,True
+PV257919.1,Bacillus subtilis,Bacillus subtilis,True
+HQ334981.1,Bacillus subtilis,Bacillus subtilis,True
+KX233724.1,Bacillus subtilis,Bacillus subtilis,True
+MT628394.1,Staphylococcus aureus,Staphylococcus aureus,True
+PX884415.1,Staphylococcus aureus,Staphylococcus aureus,True
+EU515209.1,Staphylococcus aureus,Staphylococcus aureus,True
+KR862286.1,Staphylococcus aureus,Staphylococcus aureus,True
+PV700189.1,Staphylococcus aureus,Staphylococcus aureus,True
+OQ380538.1,Staphylococcus aureus,Staphylococcus aureus,True

@@ -1,0 +1,21 @@
+species,accession,reason
+Escherichia_coli,9MQ4_2,Missing or ambiguous 16S annotation
+Escherichia_coli,PX257987.1,Ambiguous nucleotide present
+Escherichia_coli,6ZTJ_AA,Missing or ambiguous 16S annotation
+Escherichia_coli,PQ632489.1,Ambiguous nucleotide present
+Escherichia_coli,PZ342585.1,Ambiguous nucleotide present
+Escherichia_coli,6GXO_a,Missing or ambiguous 16S annotation
+Bacillus_subtilis,PV566930.1,Ambiguous nucleotide present
+Bacillus_subtilis,PQ586234.1,Ambiguous nucleotide present
+Bacillus_subtilis,MT076221.1,Ambiguous nucleotide present
+Staphylococcus_aureus,OR619496.1,Exact duplicate sequence
+Staphylococcus_aureus,KU350597.1,Ambiguous nucleotide present
+Staphylococcus_aureus,PP292029.1,Ambiguous nucleotide present
+Staphylococcus_aureus,KX638773.1,Ambiguous nucleotide present
+Staphylococcus_aureus,MK288149.1,Ambiguous nucleotide present
+Staphylococcus_aureus,8BYV_a,Organism mismatch
+Staphylococcus_aureus,PZ459195.1,Exact duplicate sequence
+Staphylococcus_aureus,OP809639.1,Exact duplicate sequence
+Staphylococcus_aureus,AF107307.1,Ambiguous nucleotide present
+Staphylococcus_aureus,PZ790516.1,Exact duplicate sequence
+Staphylococcus_aureus,PQ285495.1,Missing or ambiguous 16S annotation

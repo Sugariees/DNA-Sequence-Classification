@@ -1,0 +1,5 @@
+experiment,dataset_size,training_size,testing_size,evaluation_method,accuracy,macro_precision,macro_recall,macro_f1_score
+Original Random Holdout,150,120.0,30.0,Stratified 80/20 random holdout,1.0,1.0,1.0,1.0
+Representative Dataset,37,29.0,8.0,Stratified 80/20 random holdout,0.875,0.9166666666666666,0.8888888888888888,0.8857142857142857
+Five-Fold Cross Validation,150,,,Stratified 5-fold cross-validation,0.9933333333333334,0.9939393939393939,0.9933333333333334,0.9933166248955722
+Singleton Evaluation,150,132.0,18.0,Large clusters vs singleton groups,0.9444444444444444,0.9444444444444445,0.9523809523809524,0.9440559440559441

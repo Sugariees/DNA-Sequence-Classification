@@ -1,0 +1,4 @@
+species,total_pairs,minimum_identity,maximum_identity,mean_identity,median_identity,pairs_at_least_97_percent,percentage_at_least_97_percent,pairs_at_least_98_percent,percentage_at_least_98_percent,pairs_at_least_99_percent,percentage_at_least_99_percent,pairs_at_least_99.5_percent,percentage_at_least_99.5_percent
+Escherichia coli,1225,87.32,100.0,98.15,98.86,1021,83.35,919,75.02,531,43.35,210,17.14
+Bacillus subtilis,1225,75.92,100.0,97.78,99.34,1018,83.1,934,76.24,770,62.86,471,38.45
+Staphylococcus aureus,1225,88.07,100.0,98.85,99.43,1113,90.86,1041,84.98,848,69.22,583,47.59

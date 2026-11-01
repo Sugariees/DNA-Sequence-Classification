@@ -1,0 +1,22 @@
+species,group_id,sequence_count
+Bacillus subtilis,Bacillus_subtilis_G001,43
+Bacillus subtilis,Bacillus_subtilis_G002,1
+Bacillus subtilis,Bacillus_subtilis_G003,1
+Bacillus subtilis,Bacillus_subtilis_G004,1
+Bacillus subtilis,Bacillus_subtilis_G005,1
+Bacillus subtilis,Bacillus_subtilis_G006,1
+Bacillus subtilis,Bacillus_subtilis_G007,1
+Bacillus subtilis,Bacillus_subtilis_G008,1
+Escherichia coli,Escherichia_coli_G001,45
+Escherichia coli,Escherichia_coli_G002,1
+Escherichia coli,Escherichia_coli_G003,1
+Escherichia coli,Escherichia_coli_G004,1
+Escherichia coli,Escherichia_coli_G005,1
+Escherichia coli,Escherichia_coli_G006,1
+Staphylococcus aureus,Staphylococcus_aureus_G001,44
+Staphylococcus aureus,Staphylococcus_aureus_G002,1
+Staphylococcus aureus,Staphylococcus_aureus_G003,1
+Staphylococcus aureus,Staphylococcus_aureus_G004,1
+Staphylococcus aureus,Staphylococcus_aureus_G005,1
+Staphylococcus aureus,Staphylococcus_aureus_G006,1
+Staphylococcus aureus,Staphylococcus_aureus_G007,1

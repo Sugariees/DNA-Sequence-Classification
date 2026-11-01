@@ -1,0 +1,4 @@
+species,group_id,group_size,representative,representative_average_identity,representative_min_identity,representative_max_identity,within_group_pair_count,within_group_min_identity,within_group_mean_identity,within_group_max_identity
+Bacillus subtilis,G001,40,MZ359965.1,99.857,99.39,100.0,780,98.14,99.561,100.0
+Escherichia coli,G001,39,LC796928.1,99.627,99.03,100.0,741,96.79,99.096,100.0
+Staphylococcus aureus,G001,40,KP696710.1,99.874,99.25,100.0,780,98.24,99.674,100.0

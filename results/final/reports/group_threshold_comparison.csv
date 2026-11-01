@@ -1,0 +1,16 @@
+species,identity_threshold,total_sequences,number_of_groups,largest_group,smallest_group,qualifying_pairs
+Bacillus subtilis,99.5,50,11,40,1,461
+Bacillus subtilis,99.0,50,8,43,1,744
+Bacillus subtilis,98.0,50,5,46,1,900
+Bacillus subtilis,97.0,50,5,46,1,982
+Bacillus subtilis,95.0,50,3,48,1,1040
+Escherichia coli,99.5,50,12,39,1,193
+Escherichia coli,99.0,50,6,45,1,489
+Escherichia coli,98.0,50,5,46,1,854
+Escherichia coli,97.0,50,5,46,1,954
+Escherichia coli,95.0,50,3,48,1,1044
+Staphylococcus aureus,99.5,50,11,40,1,533
+Staphylococcus aureus,99.0,50,7,44,1,770
+Staphylococcus aureus,98.0,50,4,47,1,940
+Staphylococcus aureus,97.0,50,3,48,1,1005
+Staphylococcus aureus,95.0,50,2,49,1,1062

@@ -1,0 +1,7 @@
+experiment,species,precision,recall,f1_score,support
+Experiment 1 - Original,Bacillus subtilis,1.0,1.0,1.0,10.0
+Experiment 2 - Representatives,Bacillus subtilis,1.0,0.6666666666666666,0.8,3.0
+Experiment 1 - Original,Escherichia coli,1.0,1.0,1.0,10.0
+Experiment 2 - Representatives,Escherichia coli,0.75,1.0,0.8571428571428571,3.0
+Experiment 1 - Original,Staphylococcus aureus,1.0,1.0,1.0,10.0
+Experiment 2 - Representatives,Staphylococcus aureus,1.0,1.0,1.0,2.0
